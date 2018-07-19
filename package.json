@@ -11,7 +11,7 @@
     "twitter",
     "bot"
   ],
-  "author": "",
+  "author": "Azez Nassar",
   "license": "ISC",
   "dependencies": {
     "twit": "^2.2.11"
