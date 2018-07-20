@@ -7,7 +7,7 @@ const content = require('./content');
 const T = new Twit(keys);
 
 
-postTweet();
+//postTweet();
 
 const oneDay = 1000*60*60*24
 setInterval(postTweet, oneDay);
